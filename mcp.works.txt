@@ -1,0 +1,26 @@
+Playwright MCP access confirmed.
+
+Available playwright tools:
+- browser_snapshot
+- browser_click
+- browser_navigate
+- browser_type
+- browser_evaluate
+- browser_take_screenshot
+- browser_wait_for
+- browser_select_option
+- browser_hover
+- browser_drag
+- browser_fill_form
+- browser_file_upload
+- browser_handle_dialog
+- browser_console_messages
+- browser_resize
+- browser_close
+- browser_press_key
+- browser_navigate_back
+- browser_network_requests
+- browser_tabs
+- browser_install
+
+All playwright MCP tools are accessible and functional.
